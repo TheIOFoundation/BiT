@@ -1,2 +1,2 @@
-# BiT
-BHR in Tech
+# Initial page
+
