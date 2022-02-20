@@ -2,5 +2,5 @@
 
 ## About
 
-* [Get involved](README.md)
-* [Page 1](about/readme.md)
+* [Introduction](README.md)
+* [Get involved](<README (1).md>)
