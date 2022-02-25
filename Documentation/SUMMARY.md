@@ -10,3 +10,7 @@
 ## Publications
 
 * [Page 1](publications/page-1.md)
+
+## Research
+
+* [Terminology](research/terminology.md)
