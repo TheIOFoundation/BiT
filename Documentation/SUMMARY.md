@@ -2,7 +2,7 @@
 
 ## About
 
-* [Introduction](README.md)
+* [🚧 Introduction](README.md)
   * [🚧 Theory of Change](about/readme/theory-of-change.md)
   * [🚧 Business Plan](about/readme/business-plan.md)
   * [🚧 Status](about/readme/status.md)
@@ -19,5 +19,5 @@
 
 ## Operations
 
-* [Campaigns](operations/campaigns.md)
+* [🚧 Campaigns](operations/campaigns.md)
 * [🚧 Objects](operations/objects.md)
