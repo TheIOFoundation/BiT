@@ -17,6 +17,7 @@
 
 ## Research
 
-## Publications
+## Operations
 
-* [Page 1](publications/page-1.md)
+* [Campaigns](operations/campaigns.md)
+* [Objects](operations/objects.md)
