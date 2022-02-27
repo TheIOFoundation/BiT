@@ -1,9 +1,7 @@
 # 🚧 Join us
 
-
-
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/BiTJoinUs) **| Playbook | Assistant**
 {% endhint %}
 
 
