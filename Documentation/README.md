@@ -1,27 +1,50 @@
 # 🚧 Introduction
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
-{% endhint %}
-
-
-
-{% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFDocs) **| Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/BiTDocs) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}
-This website contains the **documentation** relative to The IO Foundation and its initiatives.
+This website contains the **documentation** relative to the BHR in Tech (BiT) Initiative from [The IO Foundation](https://tiof.click/TIOFWeb).
 
 You may be looking for:
 
-* [Official Website](https://tiof.click/TIOFWeb)
-* [TIOF Management](https://tiof.click/TIOFRepo)
+* [Official Website](https://tiof.click/BiTWeb)
+* [BHR in Tech Initiative Management](https://tiof.click/BiTRepo)
 
 To learn how to navigate this documentation, please check the [HELP](https://tiof.click/TIOFDocsHelp) section.
 {% endhint %}
 
-## The organization
+## The Initiative
+
+#### **Project Description**
+
+The BHR in Tech (BiT) initiative aims to promote the adoption of the [United Nations' Guiding Principles in Business and Human Rights](https://opencollective.com/redirect?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FUnited\_Nations\_Guiding\_Principles\_on\_Business\_and\_Human\_Rights) in the Tech sector.\
+(See [full text document](https://opencollective.com/redirect?url=https%3A%2F%2Fwww.ohchr.org%2Fdocuments%2Fpublications%2Fguidingprinciplesbusinesshr\_en.pdf))\
+\
+The IO Foundation is committed to encourage and facilitate this implementation from a technical perspective to ensure the observance of the BHR Principles by design.\
+\
+
+
+#### **Summary of Activities**
+
+* Design and produce recommendations and guidelines for the implementation of the UN GPs in the Tech sector
+* Participate actively in the drafting of National Action Plans so that tech is considered as a thematic area or, to the very least, as a cross-cutting theme.
+
+#### **Outcomes**
+
+* Increase the recognition of the importance of technology in different jurisdictions through their National Action Plans
+* Generate research material on the subject of BHR in the Tech sector
+
+#### **Implementation details**
+
+[Project Status](https://opencollective.com/redirect?url=http%3A%2F%2FTIOF.Click%2FBiTStatus) - [Budget](https://opencollective.com/redirect?url=http%3A%2F%2FTIOF.Click%2FBiTBudget) - [Positions](https://opencollective.com/redirect?url=http%3A%2F%2FTIOF.Click%2FBiTJoinUs)&#x20;
+
+
+
+
+
+
 
 The IO Foundation (TIOF) is a global for-impact NGO born from a fundamental concern about the state of technology in the world and advocating for [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy).
 
