@@ -1,7 +1,7 @@
 # 🚧 Tasks
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant |** [**Slides Repository**](https://tiof.click/BiTSlidesRepo)****
+**ShortURL | Playbook | Assistant**
 {% endhint %}
 
 
