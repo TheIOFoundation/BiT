@@ -19,5 +19,6 @@
 
 ## Operations
 
+* [Handbooks](operations/handbooks.md)
 * [🚧 Campaigns](operations/campaigns.md)
 * [🚧 Objects](operations/objects.md)
