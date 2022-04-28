@@ -8,8 +8,6 @@
 
 The IO Foundation is always looking for talented individuals wishing to make an impact in technology through its BHR in Tech (BiT) initiative.
 
-Do you share the BiT's [Mission & Vision](broken-reference)?
-
 Do you have a passion towards the development and support of bringing the [United Nations Guiding Principles in Business and Human Rights](https://tiof.click/BITUNGP) into the Tech sector?
 
 {% hint style="success" %}
