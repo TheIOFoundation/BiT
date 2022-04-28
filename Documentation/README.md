@@ -15,6 +15,10 @@ You may be looking for:
 To learn how to navigate this documentation, please check the [HELP](https://tiof.click/TIOFDocsHelp) section.
 {% endhint %}
 
+{% embed url="https://tiof.click/BiTPresentation" %}
+Introduction to the BHR in Tech initiative
+{% endembed %}
+
 ## The Initiative
 
 #### **Project Description**
