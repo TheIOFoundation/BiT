@@ -19,6 +19,7 @@
 ## INSTITUTIONAL
 
 * [Structures](institutional/structures/README.md)
+  * [🚧 Board of Consultants](institutional/structures/board-of-consultants.md)
   * [Teams](institutional/structures/teams.md)
 
 ## Operations
