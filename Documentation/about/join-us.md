@@ -26,7 +26,7 @@ There are 2 ways to proceed:
 
 ### Participate as a TIOF Member
 
-By joining as a TIOF Member you will officially join one of the BiT Teams, participate in organized tasks and have access to tools and other resources as well as training.
+By joining as a TIOF Member you will officially join one of the [BiT Teams](../institutional/structures/teams.md), participate in organized tasks and have access to tools and other resources as well as training.
 
 TIOF Members can be:
 
