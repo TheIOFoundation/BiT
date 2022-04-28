@@ -8,10 +8,12 @@
 
 The IO Foundation is always looking for talented individuals wishing to make an impact in technology through its BHR in Tech (BiT) initiative.
 
+Do you share the BHR in Tech's [Mission & Vision](../#mission-and-vision-pending)?
+
 Do you have a passion towards the development and support of bringing the [United Nations Guiding Principles in Business and Human Rights](https://tiof.click/BITUNGP) into the Tech sector?
 
 {% hint style="success" %}
-**Together we can work towards ensuring that technology protect and respect citizen's Rights.**
+**Together we can work towards ensuring that technology **_**protect**_** and **_**respect**_** citizen's Rights.**
 
 **Let’s talk!**
 {% endhint %}
@@ -28,9 +30,9 @@ By joining as a TIOF Member you will officially join one of the BiT Teams, parti
 
 TIOF Members can be:
 
-* Employees
-* Interns
-* Volunteers
+* [Employees](https://tiof.click/TIOFTerminology#employees)
+* [Interns](https://tiof.click/TIOFTerminology#interns)
+* [Volunteers](https://tiof.click/TIOFTerminology#volunteers)
 * Members of a Board
 
 {% hint style="warning" %}
