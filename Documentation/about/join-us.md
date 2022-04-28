@@ -30,10 +30,10 @@ By joining as a TIOF Member you will officially join one of the BiT Teams, parti
 
 TIOF Members can be:
 
-* [Employees](https://tiof.click/TIOFTerminology#employees)
-* [Interns](https://tiof.click/TIOFTerminology#interns)
-* [Volunteers](https://tiof.click/TIOFTerminology#volunteers)
-* Members of a Board
+* [Employees](https://tiof.click/TIOFOrgChartDocs#employees)
+* [Interns](https://tiof.click/TIOFOrgChartDocs#interns)
+* [Volunteers](https://tiof.click/TIOFOrgChartDocs#volunteers)
+* [Members of a Board](https://tiof.click/TIOFOrgChartDocs#members-of-a-board)
 
 {% hint style="warning" %}
 As an active TIOF Member, you must be able to commit according to the responsibilities acquired.
