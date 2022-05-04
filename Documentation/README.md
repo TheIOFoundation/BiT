@@ -31,7 +31,7 @@ As core stakeholders, technologists play a critical role as the [Next Generation
 
 ### Objectives
 
-The BHR in Tech initiative aims at encourage a shift towards the adoption and implementation of the [United Nations' Guiding Principles in Business and Human Rights](https://tiof.click/BITUNGP) in the Tech sector by
+The BHR in Tech initiative aims at encouraging a shift towards the adoption and implementation of the [United Nations' Guiding Principles in Business and Human Rights](https://tiof.click/BITUNGP) in the Tech sector by
 
 * designing and producing implementation guidelines and other research materials
 * participating actively in the drafting of National Action Plans (NAPs) so that tech is considered as a thematic area or, to the very least, as a cross-cutting theme
