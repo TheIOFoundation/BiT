@@ -19,28 +19,16 @@ To learn how to navigate this documentation, please check the [HELP](https://tio
 Introduction to the BHR in Tech initiative
 {% endembed %}
 
-##
-
-{% hint style="info" %}
-****[**ShortURL**](https://tiof.click/DCDRDocs) **| Playbook | Assistant**
-{% endhint %}
-
-{% hint style="warning" %}
-This website contains the **documentation** relative to the Data-Centric Digital Rights (DCDR) Initiative from [The IO Foundation](https://tiof.click/TIOFWeb).
-
-You may be looking for:
-
-* [Official Website](https://tiof.click/DCDRWeb)
-* [DCDR Initiative Management](https://tiof.click/DCDRRepo)
-
-To learn how to navigate this documentation, please check the [HELP](https://tiof.click/TIOFDocsHelp) section.
-{% endhint %}
-
-{% embed url="https://tiof.click/DCDRPresentation" %}
-Introduction to the DCDR Advocacy initiative
-{% endembed %}
-
 ## The Initiative
+
+The BHR in Tech (BiT) initiative aims to promote the adoption of the [United Nations' Guiding Principles in Business and Human Rights](https://opencollective.com/redirect?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FUnited\_Nations\_Guiding\_Principles\_on\_Business\_and\_Human\_Rights) in the Tech sector.\
+(See [full text document](https://opencollective.com/redirect?url=https%3A%2F%2Fwww.ohchr.org%2Fdocuments%2Fpublications%2Fguidingprinciplesbusinesshr\_en.pdf))\
+\
+The IO Foundation is committed to encourage and facilitate this implementation from a technical perspective to ensure the observance of the BHR Principles by design.
+
+
+
+
 
 Data-Centric Digital Rights (DCDR), an initiative from [The IO Foundation](https://tiof.click/TIOFWeb), is the advocacy by which it aims at protecting citizens' Rights by transparently implementing in their daily technology the regulations that should protect them.
 
@@ -61,6 +49,22 @@ By understanding that [_we are our data_](https://tiof.click/DCDRPrinciple1), te
 
 ### Objectives
 
+
+
+#### **Summary of Activities**
+
+* Design and produce recommendations and guidelines for the implementation of the UN GPs in the Tech sector
+* Participate actively in the drafting of National Action Plans so that tech is considered as a thematic area or, to the very least, as a cross-cutting theme.
+
+#### **Outcomes**
+
+* Increase the recognition of the importance of technology in different jurisdictions through their National Action Plans
+* Generate research material on the subject of BHR in the Tech sector
+
+
+
+
+
 The DCDR initiative aims at encourage a shift in the current technology paradigms by providing
 
 * [DCDR Principles](https://tiof.click/DCDRPrinciples)
@@ -73,6 +77,22 @@ The DCDR initiative aims at encourage a shift in the current technology paradigm
     * [Use Cases](https://tiof.click/DCDRUseCases)
 
 ## Mission & Vision
+
+
+
+## Mission & Vision PENDING
+
+While the BHR in Tech initiative is designed in order to support TIOF's [mission](https://tiof.click/TIOFMission) and to achieve its [vision](https://tiof.click/TIOFVision), it nonetheless also formulates its own Mission & Vision.
+
+### Mission
+
+> To provide technologist with a clear framework and taxonomies to embed Data-Centric Digital Rights into technology and enable their role as Next Generation of Rights Defenders.
+
+### Vision
+
+> A world where technology protects digital citizens and their digital twins transparently and by design.
+
+
 
 While the DCDR initiative is designed in order to support TIOF's [mission](https://tiof.click/TIOFMission) and to achieve its [vision](https://tiof.click/TIOFVision), it nonetheless also formulates its own Mission & Vision.
 
@@ -87,6 +107,20 @@ While the DCDR initiative is designed in order to support TIOF's [mission](https
 ## Values
 
 The DCDR initiative adheres to the same [values](https://tiof.click/TIOFValues) as The IO Foundation to delivers its mission.
+
+
+
+
+
+### Values
+
+The IO Foundation delivers its mission through the observance of the following values:
+
+> **Community:** Data-Centric Digital Rights is a global endeavor that requires the active participation of everyone, from policy makers to citizens, businesses and the people who will architect and build our digital societies.
+
+> **Accountability:** We recognize the critical importance of operating under procedures and methodologies that are transparent in order to generate the necessary trust in the organization, our [DCDR Principles](https://tiof.click/DCDRPrinciples) and the advocacy at large.
+
+> **Impact:** Our initiatives are designed and implemented only to serve the broader advocacy and to help, step by step, generate practical outcomes that make technology better and safer transparently for citizens.
 
 ## Publications
 
@@ -108,88 +142,6 @@ You can support The IO Foundation by
 * Partner with us
 {% endhint %}
 
-
-
-{% hint style="success" %}
-*
-{% endhint %}
-
 {% hint style="info" %}
 Check our [Partners and Collaborators](https://tiof.click/TIOFPartners).
-{% endhint %}
-
-## The Initiative
-
-#### **Project Description**
-
-The BHR in Tech (BiT) initiative aims to promote the adoption of the [United Nations' Guiding Principles in Business and Human Rights](https://opencollective.com/redirect?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FUnited\_Nations\_Guiding\_Principles\_on\_Business\_and\_Human\_Rights) in the Tech sector.\
-(See [full text document](https://opencollective.com/redirect?url=https%3A%2F%2Fwww.ohchr.org%2Fdocuments%2Fpublications%2Fguidingprinciplesbusinesshr\_en.pdf))\
-\
-The IO Foundation is committed to encourage and facilitate this implementation from a technical perspective to ensure the observance of the BHR Principles by design.\
-\
-
-
-#### **Summary of Activities**
-
-* Design and produce recommendations and guidelines for the implementation of the UN GPs in the Tech sector
-* Participate actively in the drafting of National Action Plans so that tech is considered as a thematic area or, to the very least, as a cross-cutting theme.
-
-#### **Outcomes**
-
-* Increase the recognition of the importance of technology in different jurisdictions through their National Action Plans
-* Generate research material on the subject of BHR in the Tech sector
-
-#### **Implementation details**
-
-[Project Status](https://opencollective.com/redirect?url=http%3A%2F%2FTIOF.Click%2FBiTStatus) - [Budget](https://opencollective.com/redirect?url=http%3A%2F%2FTIOF.Click%2FBiTBudget) - [Positions](https://opencollective.com/redirect?url=http%3A%2F%2FTIOF.Click%2FBiTJoinUs)&#x20;
-
-
-
-
-
-
-
-The IO Foundation (TIOF) is a global for-impact NGO born from a fundamental concern about the state of technology in the world and advocating for [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy).
-
-As societies become inevitably digital, _their architects and builders need to embrace their fundamental role as the_ [_Next Generation of Rights defenders_](https://tiof.click/TIOFNextGen).
-
-There remains, however, a limited international understanding of the true impact of technology on citizens and their digital twins as data becomes an increasingly powerful economic, political and social force.
-
-TIOF aims to raise awareness of the importance of [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy) in collaboration with stakeholders ranging from civil society, programmer communities, bodies of governance and corporate and work together to achieve the proclamation and adoption of a [Universal Declaration of Digital Rights](https://tiof.click/UDDRWeb).
-
-The IO Foundation advances its [Data-Centric Digital Rights advocacy](https://tiof.click/DCDRAdvocacy) through the implementation of a number of [initiatives](broken-reference).
-
-###
-
-## Mission & Vision PENDING
-
-While the BHR in Tech initiative is designed in order to support TIOF's [mission](https://tiof.click/TIOFMission) and to achieve its [vision](https://tiof.click/TIOFVision), it nonetheless also formulates its own Mission & Vision.
-
-### Mission
-
-> To provide technologist with a clear framework and taxonomies to embed Data-Centric Digital Rights into technology and enable their role as Next Generation of Rights Defenders.
-
-### Vision
-
-> A world where technology protects digital citizens and their digital twins transparently and by design.
-
-###
-
-
-
-### Values
-
-The IO Foundation delivers its mission through the observance of the following values:
-
-> **Community:** Data-Centric Digital Rights is a global endeavor that requires the active participation of everyone, from policy makers to citizens, businesses and the people who will architect and build our digital societies.
-
-> **Accountability:** We recognize the critical importance of operating under procedures and methodologies that are transparent in order to generate the necessary trust in the organization, our [DCDR Principles](https://tiof.click/DCDRPrinciples) and the advocacy at large.
-
-> **Impact:** Our initiatives are designed and implemented only to serve the broader advocacy and to help, step by step, generate practical outcomes that make technology better and safer transparently for citizens.
-
-{% hint style="warning" %}
-**NOTICE**
-
-This documentation page is under construction.\
-Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
