@@ -108,6 +108,16 @@ You can support The IO Foundation by
 * Partner with us
 {% endhint %}
 
+
+
+{% hint style="success" %}
+*
+{% endhint %}
+
+{% hint style="info" %}
+Check our [Partners and Collaborators](https://tiof.click/TIOFPartners).
+{% endhint %}
+
 ## The Initiative
 
 #### **Project Description**
