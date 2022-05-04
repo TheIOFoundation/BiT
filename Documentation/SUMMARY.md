@@ -16,6 +16,10 @@
 
 ## Research
 
+* [Guides](research/guides.md)
+* [Policy Briefs](research/policy-briefs.md)
+* [Publications](research/publications.md)
+
 ## INSTITUTIONAL
 
 * [Structures](institutional/structures/README.md)
