@@ -29,8 +29,8 @@
 
 ## Operations
 
-* [Handbooks](operations/handbooks/README.md)
-  * [🚧 Comms](operations/handbooks/comms.md)
-  * [🚧 Tasks](operations/handbooks/tasks.md)
+* [📚 Handbooks](operations/handbooks/README.md)
+  * [📓 Comms](operations/handbooks/comms.md)
+  * [📓 Tasks](operations/handbooks/tasks.md)
 * [🚧 Campaigns](operations/campaigns.md)
 * [🚧 Objects](operations/objects.md)
