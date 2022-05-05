@@ -1,14 +1,12 @@
-# 🚧 Media Kit
+---
+description: Version 1.0 | This Media Kit was approved on DD MMMM YYYY.
+---
 
-
+# 🎨 Media Kit
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/BiTMediaKit) **| Playbook | Assistant**
 {% endhint %}
-
-
-
-
 
 {% hint style="warning" %}
 **NOTICE**
