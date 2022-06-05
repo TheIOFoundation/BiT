@@ -16,15 +16,15 @@
 
 ## Research
 
-* [Guides](research/guides.md)
-* [Policy Briefs](research/policy-briefs.md)
-* [Publications](research/publications.md)
+* [🚧 Guides](research/guides.md)
+* [🚧 Policy Briefs](research/policy-briefs.md)
+* [🚧 Publications](research/publications.md)
 
 ## INSTITUTIONAL
 
-* [Structures](institutional/structures/README.md)
+* [🚧 Structures](institutional/structures/README.md)
   * [🚧 Board of Consultants](institutional/structures/board-of-consultants.md)
-  * [Teams](institutional/structures/teams.md)
+  * [🚧 Teams](institutional/structures/teams.md)
 * [🚧 Partners and Collaborators](institutional/partners-and-collaborators.md)
 
 ## Operations
