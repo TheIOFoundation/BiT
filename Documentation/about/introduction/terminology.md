@@ -1,7 +1,7 @@
 # 🗃 Terminology
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant |** [**Slides Repository**](https://tiof.click/BiTSlidesRepo)****
+****[**ShortURL**](https://tiof.click/BiTTerminology) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/BiTSlidesRepo)****
 {% endhint %}
 
 {% hint style="warning" %}
