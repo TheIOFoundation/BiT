@@ -19,7 +19,7 @@
 * [🚧 Guides](research/guides.md)
 * [🚧 Malaysia](research/malaysia/README.md)
   * [🚧 Policy Briefs](research/policy-briefs.md)
-    * [🚧 2022-10-28](research/malaysia/policy-briefs/2022-10-28.md)
+    * [🚧 Digital Rights Protection in the Malaysian Regulatory Landscape](research/malaysia/policy-briefs/digital-rights-protection-in-the-malaysian-regulatory-landscape.md)
   * [🚧 Public Comments](research/malaysia/public-comments.md)
   * [🚧 Other](research/malaysia/other.md)
 * [🚧 Publications](research/publications.md)
