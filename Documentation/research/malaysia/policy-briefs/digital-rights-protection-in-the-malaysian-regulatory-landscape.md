@@ -21,7 +21,5 @@ This Policy Brief consolidates the proposed recommendations from The IO Foundati
 
 
 
-{% embed url="https://tiof.click/BiTPolicyBriefMYSNAP" %}
-
 ## Participate
 
