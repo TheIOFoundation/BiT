@@ -17,7 +17,11 @@
 ## Research
 
 * [🚧 Guides](research/guides.md)
-* [🚧 Policy Briefs](research/policy-briefs.md)
+* [🚧 Malaysia](research/malaysia/README.md)
+  * [🚧 Policy Briefs](research/malaysia/policy-briefs/README.md)
+    * [🚧 BHR in Tech](research/malaysia/policy-briefs/bhr-in-tech.md)
+  * [🚧 Public Comments](research/malaysia/public-comments.md)
+  * [🚧 Other](research/malaysia/other.md)
 * [🚧 Publications](research/publications.md)
 
 ## INSTITUTIONAL
