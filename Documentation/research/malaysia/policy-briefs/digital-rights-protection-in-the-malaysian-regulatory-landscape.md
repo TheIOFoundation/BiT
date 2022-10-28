@@ -19,7 +19,7 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 This Policy Brief consolidates the proposed recommendations from The IO Foundation (TIOF), a Tech NGO advocating for Data-Centric Digital Rights, to incorporate technology as a cross-cutting issue in the upcoming National Action Plan on Business and Human Rights in Malaysia in its first iteration.
 
-
+[https://TIOF.Click/BiTPolicyBriefMYSNAP](https://tiof.click/BiTPolicyBriefMYSNAP)
 
 ## Participate
 
