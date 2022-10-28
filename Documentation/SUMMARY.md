@@ -19,7 +19,7 @@
 * [🚧 Guides](research/guides.md)
 * [🚧 Malaysia](research/malaysia/README.md)
   * [🚧 Policy Briefs](research/policy-briefs.md)
-    * [🚧 Digital Rights Protection in the Malaysian Regulatory Landscape: Leveraging the UNGP BHR for a Natio](research/malaysia/policy-briefs/digital-rights-protection-in-the-malaysian-regulatory-landscape-leveraging-the-ungp-bhr-for-a-natio.md)
+    * [🚧 2022-10-28](research/malaysia/policy-briefs/2022-10-28.md)
   * [🚧 Public Comments](research/malaysia/public-comments.md)
   * [🚧 Other](research/malaysia/other.md)
 * [🚧 Publications](research/publications.md)
