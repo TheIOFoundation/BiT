@@ -24,6 +24,9 @@
 
 * [🚧 Guides](research/guides/README.md)
   * [Standard Developing Organizations (SDOs)](research/guides/standard-developing-organizations-sdos/README.md)
+    * [Internet Engineering Task Force](research/guides/standard-developing-organizations-sdos/internet-engineering-task-force/README.md)
+      * [Request for Comments (RFC)](research/guides/standard-developing-organizations-sdos/internet-engineering-task-force/request-for-comments-rfc.md)
+    * [ICANN](research/guides/standard-developing-organizations-sdos/icann.md)
     * [International Telecommunications Union (ITU)](research/guides/standard-developing-organizations-sdos/international-telecommunications-union-itu/README.md)
       * [Document categories](research/guides/standard-developing-organizations-sdos/international-telecommunications-union-itu/document-categories.md)
 * [🚧 Malaysia](research/malaysia/README.md)
