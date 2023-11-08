@@ -1,7 +1,7 @@
 # 🌟 Introduction
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/BiTDocs) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/BiTDocs) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}

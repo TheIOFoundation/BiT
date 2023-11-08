@@ -1,7 +1,7 @@
 # 🏆 Awards
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/BiTAwards) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/BiTAwards) **| Playbook | Assistant**
 {% endhint %}
 
 ## Awards

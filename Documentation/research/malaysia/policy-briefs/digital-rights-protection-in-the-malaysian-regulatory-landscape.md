@@ -5,7 +5,7 @@ description: Leveraging the UNGP BHR for a National Agenda on Data-Centric Digit
 # 🚧 Digital Rights Protection in the Malaysian Regulatory Landscape
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/BiTPolicyBriefMYSNAP) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/BiTPolicyBriefMYSNAP) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}
