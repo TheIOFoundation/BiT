@@ -216,21 +216,33 @@ Types of Participants / Memberships
 #### Fellowships | Internships
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Summary" %}
 
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Sources" %}
 
 {% endtab %}
 {% endtabs %}
 
 
 
+### Training Materials
+
+{% tabs %}
+{% tab title="Summary" %}
+
+{% endtab %}
+
+{% tab title="Sources" %}
+
+{% endtab %}
+{% endtabs %}
+
 ### Events / Meetings
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Summary" %}
 Do they have events / meetings?
 
 How regularly?
