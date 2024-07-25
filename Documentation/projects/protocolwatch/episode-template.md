@@ -90,9 +90,12 @@ Do they have RSS?
 {% tab title="Summary" %}
 💥
 
+* [ ] What's the stack they follow and where do they place themselves and the work they do?
 * [ ] What kind of resources they produce?
 * [ ] What kind of resources they command?
 * [ ] What is the lifecycle of each resource?
+* [ ] Where in the stack do those resources reside?
+* [ ] Which other layers of the stack do those resources affect?
 * [ ] Do they have a common/centralized repository of resources?
 * [ ] What's the filenaming/encoding of resources?
 *
