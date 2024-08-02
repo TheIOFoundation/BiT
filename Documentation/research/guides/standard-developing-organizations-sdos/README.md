@@ -1,2 +1,0 @@
-# Standard Developing Organizations (SDOs)
-
