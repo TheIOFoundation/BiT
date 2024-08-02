@@ -18,10 +18,7 @@
 
 * [Projects](projects/README.md)
   * [Countering Internet Fragmentation](projects/countering-internet-fragmentation.md)
-  * [ProtocolWatch](projects/protocolwatch/README.md)
-    * [Episode Template](projects/protocolwatch/episode-template.md)
-    * [Season 2024](projects/protocolwatch/season-2024/README.md)
-      * [Discovering the IETF](projects/protocolwatch/season-2024/discovering-the-ietf.md)
+  * [ProtocolWatch](projects/protocolwatch.md)
 
 ## Research
 
