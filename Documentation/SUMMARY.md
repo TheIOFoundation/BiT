@@ -17,13 +17,9 @@
 ***
 
 * [Projects](projects/README.md)
+  * [BHR National Action Plan & the Tech sector](projects/bhr-national-action-plan-and-the-tech-sector.md)
   * [Countering Internet Fragmentation](projects/countering-internet-fragmentation.md)
-  * [ProtocolWatch](projects/protocolwatch/README.md)
-    * [Episode Template - Organizations](projects/protocolwatch/episode-template-organizations.md)
-    * [Episode Template - Events](projects/protocolwatch/episode-template-events.md)
-    * [Season 2024](projects/protocolwatch/season-2024/README.md)
-      * [Discovering the IETF](projects/protocolwatch/season-2024/discovering-the-ietf.md)
-      * [Meetings - IETF 120 (Vancouver)](projects/protocolwatch/season-2024/meetings-ietf-120-vancouver.md)
+  * [ProtocolWatch](projects/protocolwatch.md)
 
 ## Research
 
