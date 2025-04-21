@@ -13,7 +13,7 @@ Do you share the BHR in Tech's [Mission & Vision](../#mission-and-vision-pending
 Do you have a passion towards the development and support of bringing the [United Nations Guiding Principles in Business and Human Rights](https://tiof.click/BITUNGP) into the Tech sector?
 
 {% hint style="success" %}
-**Together we can work towards ensuring that technology **_**protect**_** and **_**respect**_** citizen's Rights.**
+**Together we can work towards ensuring that technology&#x20;**_**protect**_**&#x20;and&#x20;**_**respect**_**&#x20;citizen's Rights.**
 
 **Let’s talk!**
 {% endhint %}
