@@ -1,11 +1,12 @@
 ---
 description: Version 1.0 | This Media Kit was approved on DD MMMM YYYY.
+icon: palette
 ---
 
-# 🎨 Media Kit
+# Media Kit
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/BiTMediaKit) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/BiTSlidesRepo)****
+[**ShortURL**](https://tiof.click/BiTMediaKit) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/BiTSlidesRepo)
 {% endhint %}
 
 {% hint style="warning" %}

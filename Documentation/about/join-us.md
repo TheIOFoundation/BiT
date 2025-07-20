@@ -1,4 +1,8 @@
-# 🖖 Join us
+---
+icon: hand-spock
+---
+
+# Join us
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/BiTJoinUs) **| Playbook | Assistant**

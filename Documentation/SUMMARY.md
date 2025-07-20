@@ -2,24 +2,26 @@
 
 ## About
 
-* [🌟 Introduction](README.md)
-* [🔀 Theory of Change](about/theory-of-change.md)
-* [📊 Business Plan](about/business-plan.md)
-* [📈 Implementation](about/implementation.md)
-* [🎨 Media Kit](about/media-kit.md)
-* [🗃️ Terminology](about/terminology.md)
-* [❓ Frequently Asked Questions](about/frequently-asked-questions.md)
-* [🖖 Join us](about/join-us.md)
-* [💰 Support Us](about/support-us.md)
-* [🏆 Awards](about/awards.md)
-* [🗄️ Media Archive](about/media-archive.md)
+* [Introduction](README.md)
+* [Hidden](about/hidden/README.md)
+  * [🔀 Theory of Change](about/hidden/theory-of-change.md)
+  * [📊 Business Plan](about/hidden/business-plan.md)
+  * [📈 Implementation](about/hidden/implementation.md)
+  * [🗃️ Terminology](about/hidden/terminology.md)
+  * [❓ Frequently Asked Questions](about/hidden/frequently-asked-questions.md)
+  * [Awards](about/hidden/awards.md)
+  * [Media Archive](about/hidden/media-archive.md)
+* [Media Kit](about/media-kit.md)
+* [Join us](about/join-us.md)
+* [Support Us](about/support-us.md)
 
-***
+## Projects
 
-* [Projects](projects/README.md)
-  * [BHR National Action Plan & the Tech sector](projects/bhr-national-action-plan-and-the-tech-sector.md)
-  * [Countering Internet Fragmentation](projects/countering-internet-fragmentation.md)
-  * [ProtocolWatch](projects/protocolwatch.md)
+* [Summary](projects/summary.md)
+* [ProtocolWatch](projects/protocolwatch.md)
+* [Past](projects/past/README.md)
+  * [BHR National Action Plan & the Tech sector](projects/past/bhr-national-action-plan-and-the-tech-sector.md)
+  * [Countering Internet Fragmentation](projects/past/countering-internet-fragmentation.md)
 
 ## Research
 
