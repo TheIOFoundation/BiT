@@ -47,3 +47,7 @@
   * [📓 Tasks](operations/handbooks/tasks.md)
 * [🚧 Campaigns](operations/campaigns.md)
 * [🚧 Objects](operations/objects.md)
+
+## NOTICE
+
+* [Section Under Maintenance](notice/section-under-maintenance.md)
